@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	
+background-image:url(../images/ocean2lg.png);
+background-size:125% 125%;
+background-repeat:no-repeat;
+color: #fff;
+}
