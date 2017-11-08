@@ -46,6 +46,7 @@ function updateWl() {
 		// win alert text: "Mischief Managed"
 		//lose alert text: Dead men tell no tales !
 		//pass values back to html for total score, for wins/losses
-		//pass values back to html for number to match update or edit html as needed 
+		//pass values back to html for number to match update or edit html as needed
 
 		document.querySelector('#matchNumber').innerHTML = matchHtml; // JavaScript Document
+	}
